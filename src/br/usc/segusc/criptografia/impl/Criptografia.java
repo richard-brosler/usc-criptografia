@@ -8,7 +8,7 @@ public class Criptografia implements ICriptografiaService{
 	@Override
 	public String encriptar(String mensagem, AlgoritmoCriptografia algoritmo) {
 		// TODO Auto-generated method stub
-		return null;
+		return mensagem;
 	}
 
 }
